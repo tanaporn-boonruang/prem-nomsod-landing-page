@@ -1,6 +1,6 @@
-# 🥛 เปรม นมสด (Prem Nomsod) - Landing Page
+﻿# 🥛 นมเกือบสด - Landing Page
 
-เว็บไซต์ Landing Page แนะนำร้าน **"เปรม นมสด"** ร้านนมสดแท้ ขนมปังปิ้งเตาร้อน และของทานเล่นยามค่ำคืน บรรยากาศสุดชิลล์สไตล์ Open-Air ในราคานักเรียนนักศึกษา
+เว็บไซต์ Landing Page แนะนำร้าน **"นมเกือบสด"** ร้านนมสดแท้ ขนมปังปิ้งเตาร้อน และของทานเล่นยามค่ำคืน บรรยากาศสุดชิลล์สไตล์ Open-Air ในราคานักเรียนนักศึกษา
 
 ---
 
@@ -10,7 +10,7 @@
 - **Interactive Menu Categories:** ฟิลเตอร์เลือกดูเมนู (เครื่องดื่มนมสด / ปังปิ้ง & ของหวาน / ของทานเล่น)
 - **Authentic Chalkboard Price Board:** ดีไซน์ถอดแบบป้ายกระดานดำจริงหน้าร้าน
 - **Atmosphere Gallery:** รวมภาพบรรยากาศแสงไฟยามค่ำคืนและภาพลูกค้า
-- **Social & Location Integration:** เชื่อมต่อตรงไปยังเพจ [Facebook เปรม นมสด](https://www.facebook.com/premnomsod/) และแผนที่ปักหมุดร้าน
+- **Social & Location Integration:** เชื่อมต่อตรงไปยังเพจ [Facebook นมเกือบสด](https://www.facebook.com/premnomsod/) และแผนที่ปักหมุดร้าน
 
 ---
 
